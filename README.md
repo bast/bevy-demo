@@ -6,10 +6,13 @@ Pages using WASM.
 
 ## Code and knowledge copied from other places
 
-- Breakout example and assets copied from https://github.com/bevyengine/bevy
-  (MIT license).
-- I experienced a problem with sound and found a solution in https://deepstacker.com/2021-07-08-bevy-in-the-browser/.
-- The solution is copied from https://developer.chrome.com/blog/web-audio-autoplay/#moving-forward (CC-BY-SA-4.0 license).
+- Breakout example and assets (everything under `src/` and `assets/`) copied
+  from https://github.com/bevyengine/bevy (MIT license).
+- I experienced a problem with sound and found a solution in
+  https://deepstacker.com/2021-07-08-bevy-in-the-browser/.
+- The solution (under `hack/`) is copied from
+  https://developer.chrome.com/blog/web-audio-autoplay/#moving-forward
+  (CC-BY-SA-4.0 license).
 
 
 ## Local preview in the browser
